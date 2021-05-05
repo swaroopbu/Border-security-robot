@@ -11,3 +11,4 @@ CONTROLLING OF THE BOT
 
 Robot can be controlled by the adafruit dashboard.
 the bot can move in all direction.
+the node uses NODEMCU (esp8266)
